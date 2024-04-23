@@ -1,0 +1,2 @@
+# LazyPredictDemo
+LazyPredict Usage
